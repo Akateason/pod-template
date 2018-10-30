@@ -1,11 +1,5 @@
 # %ZYTemplateName%
 
-[![Version](https://img.shields.io/cocoapods/v/%ZYTemplateName%.svg?style=flat)](http://cocoapods.org/pods/%ZYTemplateName%)
-[![License](https://img.shields.io/cocoapods/l/%ZYTemplateName%.svg?style=flat)](http://cocoapods.org/pods/%ZYTemplateName%)
-[![Platform](https://img.shields.io/cocoapods/p/%ZYTemplateName%.svg?style=flat)](http://cocoapods.org/pods/%ZYTemplateName%)
-
-## Snapshot
-
 ## Example
 
 To run the example project, clone the repo, and run directory.
@@ -27,7 +21,7 @@ pod "%ZYTemplateName%"
 
 ## Author
 
-ripper, ripperhe@qq.com
+teason, akateason@qq.com
 
 ## License
 
