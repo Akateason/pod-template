@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
   s.name             = '%ZYTemplateName%'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of %ZYTemplateName%.'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
   s.homepage         = 'https://github.com/ripperhe/%ZYTemplateName%'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ripper' => 'ripperhe@qq.com' }
-  s.source           = { :git => 'https://github.com/ripperhe/%ZYTemplateName%.git', :tag => s.version.to_s }
+  s.author           = { 'teason' => 'akateason@qq.com' }
+  s.source           = { :git => 'https://github.com/akateason/%ZYTemplateName%.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
